@@ -43,3 +43,7 @@ Export website to a folder for distribution and ready for deploying:
 ```shell
 pingy export
 ```
+
+## License
+
+MIT © [WeiChiaChang](https://github.com/WeiChiaChang/)
