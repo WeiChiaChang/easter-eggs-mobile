@@ -4,9 +4,8 @@ It's the special version which extended from [easter-egg-collection](https://git
 
 ## 🤘 Live Demo
 
-[Just try it](https://git.io/v5PQC)!
-<br>
-Or... [Codepen](https://codepen.io/WeiChiaChang/pen/BwByxN?editors=1100) is your best friend!
+- [Just try it](https://git.io/v5PQC)!
+- Or... [Codepen](https://codepen.io/WeiChiaChang/pen/BwByxN?editors=1100) is your best friend!
 
 
 ## 🎉 Installing / Getting started
