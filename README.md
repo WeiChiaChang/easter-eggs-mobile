@@ -3,8 +3,12 @@
 
 It's the special version which extended from [easter-egg-collection](https://github.com/WeiChiaChang/easter-egg-collection) for user to trigger easter eggs on mobile device by clicking or tapping.
 
+## 🤘 Live Demo
 
-## Installing / Getting started
+[Codepen](https://codepen.io/WeiChiaChang/pen/BwByxN?editors=1100) is your best friend!
+
+
+## 🎉 Installing / Getting started
 
 A quick introduction of how to use easter-eggs-mobile, first of all:
 
@@ -46,6 +50,6 @@ Export website to a folder for distribution and ready for deploying:
 pingy export
 ```
 
-## License
+## ©️ License
 
 MIT © [WeiChiaChang](https://github.com/WeiChiaChang/)
