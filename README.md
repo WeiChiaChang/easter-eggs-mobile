@@ -1,5 +1,4 @@
-# easter-eggs-mobile
-> 📱 Now you can trigger easter eggs on mobile device!
+# 📱 easter-eggs-mobile
 
 It's the special version which extended from [easter-egg-collection](https://github.com/WeiChiaChang/easter-egg-collection) for user to trigger easter eggs on mobile device by clicking or tapping.
 
@@ -30,7 +29,7 @@ Last step, install all of the modules:
 npm install
 ```
 
-## Developing
+## 🤓 Developing
 
 ### Setting up Dev
 
