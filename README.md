@@ -10,6 +10,16 @@ It's the special version which extended from [easter-egg-collection](https://git
 
 ## 🎉 Installing / Getting started
 
+In a browser with CDN usage :
+
+```javascript
+<script src="https://rawgit.com/WeiChiaChang/easter-eggs-mobile/master/scripts/easter-egg-collection.js"></script>
+```
+
+## 🤓 Developing
+
+### Setting up Dev
+
 A quick introduction of how to use easter-eggs-mobile, first of all:
 
 ```shell
@@ -29,10 +39,6 @@ Last step, install all of the modules:
 ```shell
 npm install
 ```
-
-## 🤓 Developing
-
-### Setting up Dev
 
 Type this command with your favorite iterm2:
 
