@@ -24,7 +24,7 @@ All of the images were derived from [GIPHY](https://giphy.com/).
 In a browser with CDN usage :
 
 ```javascript
-<script src="https://rawgit.com/WeiChiaChang/easter-eggs-mobile/master/scripts/easter-egg-collection.js"></script>
+<script src="https://rawgit.com/WeiChiaChang/easter-eggs-mobile/master/scripts/easter-egg-mobile.js"></script>
 ```
 
 ## 🤓 Developing
