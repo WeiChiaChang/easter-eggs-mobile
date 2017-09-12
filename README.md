@@ -21,13 +21,13 @@ All of the images were derived from [GIPHY](https://giphy.com/).
 
 ## 🎉 Installing / Getting started
 
-<b>1</b>, In a browser with CDN usage :
+1️⃣ In a browser with CDN usage :
 
 ```html
 <script src="https://rawgit.com/WeiChiaChang/easter-eggs-mobile/master/scripts/easter-egg-mobile.js"></script>
 ```
 
-<b>2</b>, Or install with `npm` package :
+2️⃣ Or install with `npm` package :
 
 ```shell
 npm i easter-egg-mobile -D
