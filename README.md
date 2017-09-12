@@ -33,7 +33,7 @@ All of the images were derived from [GIPHY](https://giphy.com/).
 npm i easter-egg-mobile -D
 ```
 
-For `<b>Vue</b>` users, setup these commands in your single component file :
+For <b>`Vue`</b> users, setup these commands in your single component file :
 
 ```javascript
 import easterEggMobile from 'easter-egg-mobile'
