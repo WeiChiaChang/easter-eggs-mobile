@@ -21,19 +21,19 @@ All of the images were derived from [GIPHY](https://giphy.com/).
 
 ## 🎉 Installing / Getting started
 
-In a browser with CDN usage :
+1. In a browser with CDN usage :
 
 ```html
 <script src="https://rawgit.com/WeiChiaChang/easter-eggs-mobile/master/scripts/easter-egg-mobile.js"></script>
 ```
 
-Or install with `npm` package :
+2. Or install with `npm` package :
 
 ```shell
 npm i easter-egg-mobile -D
 ```
 
-For <b>Vue</b> users, setup these commands in your single component file :
+For `<b>Vue</b>` users, setup these commands in your single component file :
 
 ```javascript
 import easterEggMobile from 'easter-egg-mobile'
@@ -55,18 +55,21 @@ export default {
 }
 ```
 
-Then add `class name` and `data-src` attribute on your `<a>` tags in your <b>HTML</b> structure, take `ghost` for example :
+The setting of JavaScript part all done, magic will show just still need a little bit addition on HTML, keep going! 💪 
+---
+
+Add `class name` and `data-src` attribute on your `<a>` tags in your <b>HTML</b> structure, take `ghost` for example :
 
 ```html
 <a class="gif-click gif-ghost" data-src='./images/ghost.gif'>Ghost</a>
 ```
 
- So if you want to use `pikachu`, that would be :
- ```html
- <a class="gif-click gif-pikachu" data-src='./images/pikachu.gif'>Pikachu</a>
- ```
+So if you want to use `pikachu`, that would be :
+```html
+<a class="gif-click gif-pikachu" data-src='./images/pikachu.gif'>Pikachu</a>
+```
 
- The rest of easter eggs follow this this way as well 🎉 
+The rest of easter eggs follow this this way as well 🎉 
 
 > You can ignore `gif-click` this class, just for CSS styling.
 
@@ -78,6 +81,8 @@ airguitar  | gif-airguitar | https://goo.gl/qEhWwZ | https://i.giphy.com/7yfb0x1
 ghost | gif-ghost | https://goo.gl/4EwYZr | https://i.giphy.com/YoypIsUmXXI52.gif | 🔕
 pikachu | gif-pikachu | https://goo.gl/x3rX4r | https://i.giphy.com/uXnif9JVu6VnW.gif | 🔔
 dog | gif-dog | https://goo.gl/aQVAXH | https://i.giphy.com/4wLJ8aC0V68x2.gif | 🔕
+
+Now enjoy it! 🍾 
 
 ## 🤓 Developing
 
