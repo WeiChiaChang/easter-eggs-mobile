@@ -40,6 +40,8 @@ Then add `class name` and `data-src` attribute on your `<a>` tags in your <b>HTM
 
  The rest of easter eggs follow this this way as well 🎉 
 
+> You can ignore `gif-click` this class, just for CSS styling.
+
 ## 🤓 Developing
 
 ### Setting up Dev
