@@ -7,6 +7,11 @@ It's the special version which extended from [easter-egg-collection](https://git
 - [Just try it](https://git.io/v5PQC)!
 - Or... [Codepen](https://codepen.io/WeiChiaChang/pen/BwByxN?editors=1100) is your best friend!
 
+## 💡 Inspiration
+
+Original Source: Thanks to [Richard Denton](https://codepen.io/isdampe/pen/OXYZZO)!
+
+All of the images were derived from [GIPHY](https://giphy.com/).
 
 ## 🎉 Installing / Getting started
 
