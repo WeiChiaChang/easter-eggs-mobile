@@ -1,6 +1,12 @@
 # 📱 easter-eggs-mobile
 
-It's the special version which extended from [easter-egg-collection](https://github.com/WeiChiaChang/easter-egg-collection) for user to trigger easter eggs on mobile device by clicking or tapping.
+> It's the special version which extended from [easter-egg-collection](https://github.com/WeiChiaChang/easter-egg-collection) this library for user to trigger lots of easter eggs on mobile device by clicking or tapping with ease.
+
+<p align="center">
+  <a target="_blank" href="https://github.com/WeiChiaChang/easter-eggs-mobile">
+    <img alt="easter-egg-mobile" src="https://i.imgur.com/HE3hzAO.gif">
+  </a>
+</p>
 
 ## 🤘 Live Demo
 
