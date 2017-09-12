@@ -42,6 +42,15 @@ Then add `class name` and `data-src` attribute on your `<a>` tags in your <b>HTM
 
 > You can ignore `gif-click` this class, just for CSS styling.
 
+This table can help you find out easter eggs as required : 
+
+easter egg | class | data-src
+---------- | ----- | --------
+airguitar  | gif-airguitar | https://weichiachang.github.io/easter-eggs-mobile/images/airguitar.gif
+ghost | gif-ghost | https://weichiachang.github.io/easter-eggs-mobile/images/ghost.gif
+pikachu | gif-pikachu | https://weichiachang.github.io/easter-eggs-mobile/images/pikachu.gif
+dog | gif-dog | https://weichiachang.github.io/easter-eggs-mobile/images/dog.gif
+
 ## 🤓 Developing
 
 ### Setting up Dev
