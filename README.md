@@ -44,12 +44,12 @@ Then add `class name` and `data-src` attribute on your `<a>` tags in your <b>HTM
 
 This table can help you find out easter eggs as required : 
 
-easter egg | class | data-src | original source
+🐰 easter egg | 😳 class | 📊 data-src | 💯 original source | 🔊 sound
 ---------- | ----- | -------- | ---------------
-airguitar  | gif-airguitar | https://goo.gl/qEhWwZ | https://i.giphy.com/7yfb0x166Coms.gif
-ghost | gif-ghost | https://goo.gl/4EwYZr | https://i.giphy.com/7yfb0x166Coms.gif
-pikachu | gif-pikachu | https://goo.gl/x3rX4r | https://i.giphy.com/7yfb0x166Coms.gif
-dog | gif-dog | https://goo.gl/aQVAXH | https://i.giphy.com/7yfb0x166Coms.gif
+airguitar  | gif-airguitar | https://goo.gl/qEhWwZ | https://i.giphy.com/7yfb0x166Coms.gif | No
+ghost | gif-ghost | https://goo.gl/4EwYZr | https://i.giphy.com/7yfb0x166Coms.gif | No
+pikachu | gif-pikachu | https://goo.gl/x3rX4r | https://i.giphy.com/7yfb0x166Coms.gif | Yes
+dog | gif-dog | https://goo.gl/aQVAXH | https://i.giphy.com/7yfb0x166Coms.gif | No
 
 ## 🤓 Developing
 
