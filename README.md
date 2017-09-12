@@ -27,6 +27,19 @@ In a browser with CDN usage :
 <script src="https://rawgit.com/WeiChiaChang/easter-eggs-mobile/master/scripts/easter-egg-mobile.js"></script>
 ```
 
+Then add `class name` and `data-src` attribute on your `<a>` tags in your <b>HTML</b> file, take <b>Ghost</b> for example :
+
+```html
+<a class="gif-click gif-ghost" data-src='./images/ghost.gif'>Ghost</a>
+```
+
+ So if you want to use `pikachu`, that would be :
+ ```html
+ <a class="gif-click gif-pikachu" data-src='./images/pikachu.gif'>Pikachu</a>
+ ```
+
+ The rest of easter eggs follow this this way as well 🎉 
+
 ## 🤓 Developing
 
 ### Setting up Dev
