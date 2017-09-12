@@ -39,7 +39,7 @@ For <b>`Vue`</b> users, setup these commands in your single component file :
 import easterEggMobile from 'easter-egg-mobile'
 ```
 
-And don't forget trigger easter eggs when it <b>mounted</b> already :
+And don't forget trigger easter eggs when it <b>`mounted`</b> already :
 
 ```javascript
 export default {
@@ -69,7 +69,7 @@ So if you want to use `pikachu`, that would be :
 <a class="gif-click gif-pikachu" data-src='./images/pikachu.gif'>Pikachu</a>
 ```
 
-The rest of easter eggs follow this this way as well 🎉 
+The rest of easter eggs follow this way as well 🎉 
 
 > You can ignore `gif-click` this class, just for CSS styling.
 
