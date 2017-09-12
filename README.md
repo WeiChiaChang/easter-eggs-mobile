@@ -4,7 +4,7 @@
 
 <p align="center">
   <a target="_blank" href="https://github.com/WeiChiaChang/easter-eggs-mobile">
-    <img alt="easter-egg-mobile" src="https://i.imgur.com/iklvhdD.gif">
+    <img alt="easter-egg-mobile" src="https://i.imgur.com/HE3hzAO.gif">
   </a>
 </p>
 
