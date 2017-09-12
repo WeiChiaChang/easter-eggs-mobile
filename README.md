@@ -46,10 +46,10 @@ This table can help you find out easter eggs as required :
 
 easter egg | class | data-src | original source
 ---------- | ----- | -------- | ---------------
-airguitar  | gif-airguitar | https://weichiachang.github.io/easter-eggs-mobile/images/airguitar.gif | https://i.giphy.com/7yfb0x166Coms.gif
-ghost | gif-ghost | https://weichiachang.github.io/easter-eggs-mobile/images/ghost.gif | https://i.giphy.com/7yfb0x166Coms.gif
-pikachu | gif-pikachu | https://weichiachang.github.io/easter-eggs-mobile/images/pikachu.gif | https://i.giphy.com/7yfb0x166Coms.gif
-dog | gif-dog | https://weichiachang.github.io/easter-eggs-mobile/images/dog.gif | https://i.giphy.com/7yfb0x166Coms.gif
+airguitar  | gif-airguitar | https://goo.gl/qEhWwZ | https://i.giphy.com/7yfb0x166Coms.gif
+ghost | gif-ghost | https://goo.gl/4EwYZr | https://i.giphy.com/7yfb0x166Coms.gif
+pikachu | gif-pikachu | https://goo.gl/x3rX4r | https://i.giphy.com/7yfb0x166Coms.gif
+dog | gif-dog | https://goo.gl/aQVAXH | https://i.giphy.com/7yfb0x166Coms.gif
 
 ## 🤓 Developing
 
