@@ -28,13 +28,22 @@
   };
 
   var init = function (data) {
-    var qwop = document.getElementsByClassName('gif-airguitar')[0];
-    qwop.addEventListener('click', airguitar)
+    try { 
+      var qwop = document.getElementsByClassName('gif-airguitar')[0];
+      qwop.addEventListener('click', airguitar)
+    } catch (e) {
+      // console.log("error : "+e);
+    }
+    // var qwop = document.getElementsByClassName('gif-airguitar')[0];
+    // qwop.addEventListener('click', airguitar)
   };
-
-  var data = document.getElementsByClassName('gif-airguitar')[0].dataset.src
-  init(data);
-
+  
+  try { 
+    var data = document.getElementsByClassName('gif-airguitar')[0].dataset.src
+    init(data);
+  } catch (e) {
+    // console.log("error : "+e);
+  }
 })(window);
 // GIF -- airguitar -- end
 
@@ -67,12 +76,20 @@
   }
 
   var init = function (data) {
-    var qwop = document.getElementsByClassName('gif-dog')[0];
-    qwop.addEventListener('click', dog)
+    try { 
+      var qwop = document.getElementsByClassName('gif-dog')[0];
+      qwop.addEventListener('click', dog)
+    } catch (e) {
+      // console.log("error : "+e);
+    }
   };
 
-  var data = document.getElementsByClassName('gif-dog')[0].dataset.src
-  init(data);
+  try { 
+    var data = document.getElementsByClassName('gif-dog')[0].dataset.src
+    init(data);
+  } catch (e) {
+    // console.log("error : "+e);
+  }
 
 })(window);
 // GIF -- dog -- end
@@ -1495,12 +1512,24 @@
   };
 
   var init = function (data) {
-    var qwop = document.getElementsByClassName('gif-pikachu')[0];
-    qwop.addEventListener('click', record)
+    try { 
+      var qwop = document.getElementsByClassName('gif-pikachu')[0].dataset.src
+      qwop.addEventListener('click', record)
+    } catch (e) {
+      // console.log("error : "+e);
+    }
+    // var qwop = document.getElementsByClassName('gif-pikachu')[0];
+    // qwop.addEventListener('click', record)
   };
-
-  var data = document.getElementsByClassName('gif-pikachu')[0].dataset.src
-  init(data);
+  
+  try { 
+    var data = document.getElementsByClassName('gif-pikachu')[0].dataset.src
+    init(data);
+  } catch (e) {
+    // console.log("error : "+e);
+  }
+  // var data = document.getElementsByClassName('gif-pikachu')[0].dataset.src
+  // init(data);
 })(window);
 // GIF -- pikachu -- end
 
@@ -1535,12 +1564,20 @@
   };
 
   var init = function (data) {
-    var qwop = document.getElementsByClassName('gif-ghost')[0];
-    qwop.addEventListener('click', ghost)
+    try { 
+      var qwop = document.getElementsByClassName('gif-ghost')[0];
+      qwop.addEventListener('click', ghost)
+    } catch (e) {
+      // console.log("error : "+e);
+    }
   };
 
-  var data = document.getElementsByClassName('gif-ghost')[0].dataset.src
-  init(data)
+  try { 
+    var data = document.getElementsByClassName('gif-ghost')[0].dataset.src
+    init(data)
+  } catch (e) {
+    // console.log("error : "+e);
+  }
 
 })(window);
 // GIF -- ghost -- end
