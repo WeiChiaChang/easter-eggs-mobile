@@ -1516,7 +1516,7 @@
       var qwop = document.getElementsByClassName('gif-pikachu')[0]
       qwop.addEventListener('click', record)
     } catch (e) {
-      console.log("error : "+e);
+      // console.log("error : "+e);
     }
     // var qwop = document.getElementsByClassName('gif-pikachu')[0];
     // qwop.addEventListener('click', record)
@@ -1526,7 +1526,7 @@
     var data = document.getElementsByClassName('gif-pikachu')[0].dataset.src
     init(data);
   } catch (e) {
-    console.log("error : "+e);
+    // console.log("error : "+e);
   }
   // var data = document.getElementsByClassName('gif-pikachu')[0].dataset.src
   // init(data);
