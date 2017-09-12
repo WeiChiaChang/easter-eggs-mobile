@@ -27,7 +27,7 @@ In a browser with CDN usage :
 <script src="https://rawgit.com/WeiChiaChang/easter-eggs-mobile/master/scripts/easter-egg-mobile.js"></script>
 ```
 
-Then add `class name` and `data-src` attribute on your `<a>` tags in your <b>HTML</b> file, take <b>Ghost</b> for example :
+Then add `class name` and `data-src` attribute on your `<a>` tags in your <b>HTML</b> file, take `ghost` for example :
 
 ```html
 <a class="gif-click gif-ghost" data-src='./images/ghost.gif'>Ghost</a>
