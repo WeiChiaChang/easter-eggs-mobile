@@ -27,7 +27,35 @@ In a browser with CDN usage :
 <script src="https://rawgit.com/WeiChiaChang/easter-eggs-mobile/master/scripts/easter-egg-mobile.js"></script>
 ```
 
-Then add `class name` and `data-src` attribute on your `<a>` tags in your <b>HTML</b> file, take `ghost` for example :
+Or install with `npm` package :
+
+```javascript
+npm i easter-egg-mobile -D
+```
+
+For <b>Vue</b> users, setup these commands in your single component file :
+
+```javascript
+import easterEggMobile from 'easter-egg-mobile'
+```
+
+And don't forget trigger easter eggs when it <b>mounted</b> already :
+
+```javascript
+export default {
+  data () {
+    return {
+      ...
+    }
+  },
+  // Trigger easter eggs when mounted
+  mounted: function () {
+    easterEggMobile
+  }
+}
+```
+
+Then add `class name` and `data-src` attribute on your `<a>` tags in your <b>HTML</b> structure, take `ghost` for example :
 
 ```html
 <a class="gif-click gif-ghost" data-src='./images/ghost.gif'>Ghost</a>
