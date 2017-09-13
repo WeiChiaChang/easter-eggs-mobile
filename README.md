@@ -95,6 +95,7 @@ gif-jumpingbird | https://goo.gl/m1cdht | https://i.giphy.com/d3ywbrOKTC2283KM.g
 gif-haters | https://goo.gl/DuMKq4 | https://i.giphy.com/L2ZFgodrsQs6s.gif | 🔕
 gif-dragon | https://goo.gl/P3hA5U | https://i.giphy.com/CJRIOrrkmtBOo.gif | 🔕 
 gif-money | https://goo.gl/frKxMS | https://i.giphy.com/sBoohCuSRNYv6.gif | 🔕 
+gif-robot | https://goo.gl/yV2gVM | https://i.giphy.com/7ER2Unn4hwhJ6.gif | 🔕 
 
 
 ## 🤓 Developing
