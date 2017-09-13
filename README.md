@@ -98,6 +98,7 @@ gif-money | https://goo.gl/frKxMS | https://i.giphy.com/sBoohCuSRNYv6.gif | 🔕
 gif-robot | https://goo.gl/yV2gVM | https://i.giphy.com/7ER2Unn4hwhJ6.gif | 🔕 
 gif-spongebob | https://goo.gl/CxR6Xq | https://i.giphy.com/FxAYkQqdw63hC.gif | 🔕 
 gif-handsome | https://goo.gl/2Kz7Xf | https://i.giphy.com/aXPw3suOkxrBC.gif | 🔕 
+gif-no | https://goo.gl/1Gx1dY | https://i.giphy.com/l1ibixfnM4qGI.gif | 🔕 
 
 
 ## 🤓 Developing
