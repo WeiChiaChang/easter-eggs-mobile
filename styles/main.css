@@ -63,6 +63,7 @@ body {
   color: #69c773;
   font-weight: bolder;
   background: #eeeeee;
+  border: 2px solid #d0d0d0;
   padding: 1px 4px;
   border-radius: 4px;
   cursor: pointer;
@@ -94,6 +95,8 @@ body {
 
 a {
   text-decoration: none;
+  display: inline-block;
+  line-height: 1.2em;
 }
 
 .title {
