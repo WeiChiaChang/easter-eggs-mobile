@@ -89,6 +89,7 @@ gif-psyduck | https://goo.gl/UQL2ak | https://i.giphy.com/7gmk89ezqSjFS.gif | �
 gif-salamander | https://goo.gl/6ZJv2q | https://i.giphy.com/Ny6WEYvBuBvDW.gif | 🔕 
 gif-jump | https://goo.gl/EPJRmw | https://i.giphy.com/yqwAxqYAqKTmw.gif | 🔕 
 gif-pokeball | https://goo.gl/TBGpoK | https://i.giphy.com/87XjvflDBlPMc.gif | 🔕 
+gif-rabbit | https://goo.gl/an1sF1 | https://i.giphy.com/ClZz9cJstGjuM.gif | 🔕 
 
 
 ## 🤓 Developing
