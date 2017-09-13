@@ -85,6 +85,7 @@ gif-pikachu | https://goo.gl/x3rX4r | https://i.giphy.com/uXnif9JVu6VnW.gif | �
 gif-dog | https://goo.gl/aQVAXH | https://i.giphy.com/4wLJ8aC0V68x2.gif | 🔕 
 gif-hangover | https://goo.gl/aWj4U2 | https://i.giphy.com/uDvz51Hu6PONi.gif | 🔕 
 gif-winner | https://goo.gl/5vcgPj | https://i.giphy.com/3oKIPwZVHEiM2B3ljq.gif | 🔕 
+gif-psyduck | https://goo.gl/UQL2ak | https://i.giphy.com/7gmk89ezqSjFS.gif | 🔕 
 
 
 ## 🤓 Developing
