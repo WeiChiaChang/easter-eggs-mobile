@@ -2252,3 +2252,53 @@
 
 })(window);
 // GIF -- robot -- end
+
+// GIF -- spongebob -- start
+(function (window) {
+  "use strict"
+
+  var spongebob = function () {
+    var shock = document.createElement('div');
+    var img = new Image();
+    img.src = data;
+    img.style.width = '374px';
+    img.style.height = '375px';
+    img.style.transition = '6s all';
+    img.style.position = 'fixed';
+    img.style.right = '-374px';
+    img.style.bottom = '0px';
+    img.style.zIndex = 999999;
+
+    document.body.appendChild(img);
+
+    window.setTimeout(function () {
+      img.style.right = 'calc(50% - 187px)';
+    }, 50);
+
+    window.setTimeout(function () {
+      img.style.right = 'calc(100% + 375px)';
+    }, 4300);
+    window.setTimeout(function () {
+      img.parentNode.removeChild(img);
+    }, 7300);
+
+  };
+
+  var init = function (data) {
+    try {
+      var qwop = document.getElementsByClassName('gif-spongebob')[0];
+      qwop.addEventListener('click', spongebob)
+    } catch (e) {
+      // console.log("error : "+e);
+    }
+  };
+
+  try {
+    var data = document.getElementsByClassName('gif-spongebob')[0].dataset.src
+    init(data);
+  } catch (e) {
+    // console.log("error : "+e);
+  }
+
+})(window);
+// GIF -- spongebob -- end
