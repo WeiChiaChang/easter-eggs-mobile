@@ -57,7 +57,7 @@ export default {
 
 > Magic will show with a tiny setting on HTML, keep going ! 💪 
 
-Add `class name` and `data-src` attribute on your `<a>` tags in your <b>HTML</b> structure, take `ghost` for example :
+Add `class name` and `data-src` attribute on `<a>` tags in your <b>HTML</b> structure, take `ghost` for example :
 
 ```html
 <a class="gif-ghost" data-src='./images/ghost.gif'>Ghost</a>
