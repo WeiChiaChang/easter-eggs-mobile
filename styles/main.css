@@ -77,7 +77,29 @@ body {
 .icon {
   display: block;
   margin: 0 auto;
-  margin-bottom: 10%;
+  margin-bottom: 4%;
+}
+
+#share-buttons {
+  text-align: center;
+}
+
+#share-buttons img {
+  width: 35px;
+  padding: 5px;
+  border: 0;
+  box-shadow: 0;
+  display: inline;
+}
+
+a {
+  text-decoration: none;
+}
+
+.title {
+  text-align: center; 
+  font-size: 28px;
+  margin-top: 5px;
 }
 
 @media (max-width: 767px) {
