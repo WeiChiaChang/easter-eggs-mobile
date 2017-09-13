@@ -1840,3 +1840,55 @@
 
 })(window);
 // GIF -- jump -- end
+
+// GIF -- pokeball -- start
+(function (window) {
+  "use strict"
+
+  var pokeball = function () {
+    var shock = document.createElement('div')
+    var img = new Image()
+    img.src = data
+    img.style.width = '500px'
+    img.style.height = '350px'
+    img.style.transition = '8s all linear'
+    img.style.position = 'fixed'
+    img.style.left = '-450px'
+    // img.style.bottom = 'calc(-50% + 300px)'
+    img.style.bottom = '-10px'
+    img.style.zIndex = 999999
+
+    document.body.appendChild(img)
+
+    // window.setTimeout(function(){
+    //   img.style.left = 'calc(50% - 200px)'
+    // },50)
+
+    window.setTimeout(function () {
+      img.style.left = 'calc(100% + 500px)'
+    }, 50)
+
+    window.setTimeout(function () {
+      img.parentNode.removeChild(img)
+    }, 8000)
+
+  }
+
+  var init = function (data) {
+    try {
+      var qwop = document.getElementsByClassName('gif-pokeball')[0];
+      qwop.addEventListener('click', pokeball)
+    } catch (e) {
+      // console.log("error : "+e);
+    }
+  };
+
+  try {
+    var data = document.getElementsByClassName('gif-pokeball')[0].dataset.src
+    init(data);
+  } catch (e) {
+    // console.log("error : "+e);
+  }
+
+})(window);
+// GIF -- pokeball -- end

@@ -79,15 +79,16 @@ So if you want to use `pikachu`, that would be :
 
 🐰 easter egg class | 📊 data-src | 💯 original source | 🔊 sound
 ------------------- | ----------- | ----------------- | --------
+gif-pikachu | https://goo.gl/x3rX4r | https://i.giphy.com/uXnif9JVu6VnW.gif | 🔔
 gif-airguitar | https://goo.gl/qEhWwZ | https://i.giphy.com/7yfb0x166Coms.gif | 🔕
 gif-ghost | https://goo.gl/4EwYZr | https://i.giphy.com/YoypIsUmXXI52.gif | 🔕
-gif-pikachu | https://goo.gl/x3rX4r | https://i.giphy.com/uXnif9JVu6VnW.gif | 🔔
 gif-dog | https://goo.gl/aQVAXH | https://i.giphy.com/4wLJ8aC0V68x2.gif | 🔕 
 gif-hangover | https://goo.gl/aWj4U2 | https://i.giphy.com/uDvz51Hu6PONi.gif | 🔕 
 gif-winner | https://goo.gl/5vcgPj | https://i.giphy.com/3oKIPwZVHEiM2B3ljq.gif | 🔕 
 gif-psyduck | https://goo.gl/UQL2ak | https://i.giphy.com/7gmk89ezqSjFS.gif | 🔕 
 gif-salamander | https://goo.gl/6ZJv2q | https://i.giphy.com/Ny6WEYvBuBvDW.gif | 🔕 
 gif-jump | https://goo.gl/EPJRmw | https://i.giphy.com/yqwAxqYAqKTmw.gif | 🔕 
+gif-pokeball | https://goo.gl/TBGpoK | https://i.giphy.com/87XjvflDBlPMc.gif | 🔕 
 
 
 ## 🤓 Developing
