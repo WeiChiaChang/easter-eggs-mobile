@@ -1633,3 +1633,54 @@
 
 })(window);
 // GIF -- hangover -- end
+
+// GIF -- winner -- start
+(function (window) {
+  "use strict"
+
+  var winner = function () {
+    var shock = document.createElement('div');
+    var img = new Image;
+    img.src = data;
+    img.style.width = '450px';
+    img.style.height = '400px';
+    img.style.transition = '1s all';
+    img.style.position = 'fixed';
+    img.style.left = 'calc(50% - 200px)';
+    img.style.bottom = '-400px';
+    img.style.zIndex = 999999;
+
+    document.body.appendChild(img);
+
+    window.setTimeout(function () {
+      img.style.bottom = '-65px';
+    }, 30);
+
+    window.setTimeout(function () {
+      img.style.bottom = '-600px';
+    }, 4300);
+    window.setTimeout(function () {
+      img.parentNode.removeChild(img);
+      // shock.parentNode.removeChild(shock);
+    }, 5400);
+
+  };
+
+  var init = function (data) {
+    try {
+      var qwop = document.getElementsByClassName('gif-winner')[0];
+      qwop.addEventListener('click', winner)
+    } catch (e) {
+      // console.log("error : "+e);
+    }
+  };
+
+  try {
+    var data = document.getElementsByClassName('gif-winner')[0].dataset.src
+    init(data);
+  } catch (e) {
+    // console.log("error : "+e);
+  }
+
+})(window);
+// GIF -- winner -- end

@@ -84,6 +84,7 @@ ghost | gif-ghost | https://goo.gl/4EwYZr | https://i.giphy.com/YoypIsUmXXI52.gi
 pikachu | gif-pikachu | https://goo.gl/x3rX4r | https://i.giphy.com/uXnif9JVu6VnW.gif | 🔔
 dog | gif-dog | https://goo.gl/aQVAXH | https://i.giphy.com/4wLJ8aC0V68x2.gif | 🔕 
 hangover | gif-hangover | https://goo.gl/aWj4U2 | https://i.giphy.com/uDvz51Hu6PONi.gif | 🔕 
+winner | gif-winner | https://goo.gl/5vcgPj | https://i.giphy.com/3oKIPwZVHEiM2B3ljq.gif | 🔕 
 
 
 ## 🤓 Developing
