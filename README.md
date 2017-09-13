@@ -91,6 +91,7 @@ gif-jump | https://goo.gl/EPJRmw | https://i.giphy.com/yqwAxqYAqKTmw.gif | 🔕
 gif-pokeball | https://goo.gl/TBGpoK | https://i.giphy.com/87XjvflDBlPMc.gif | 🔕 
 gif-rabbit | https://goo.gl/an1sF1 | https://i.giphy.com/ClZz9cJstGjuM.gif | 🔕 
 gif-penguin | https://goo.gl/by1APG | https://i.giphy.com/12GEN4WSKIBYnC.gif | 🔕 
+gif-jumpingbird | https://goo.gl/m1cdht | https://i.giphy.com/d3ywbrOKTC2283KM.gif | 🔕 
 
 
 ## 🤓 Developing
