@@ -70,7 +70,9 @@ So if you want to use `pikachu`, that would be :
 
 The rest of easter eggs follow this way as well 🎉 
 
-This table can help you find out easter eggs as required : 
+#### Now enjoy it! 🍾 
+
+> This table can help you find out easter eggs as required : 
 
 🐰 easter egg | 😳 class | 📊 data-src | 💯 original source | 🔊 sound
 ---------- | ----- | -------- | --------------- | ------------------
@@ -79,7 +81,6 @@ ghost | gif-ghost | https://goo.gl/4EwYZr | https://i.giphy.com/YoypIsUmXXI52.gi
 pikachu | gif-pikachu | https://goo.gl/x3rX4r | https://i.giphy.com/uXnif9JVu6VnW.gif | 🔔
 dog | gif-dog | https://goo.gl/aQVAXH | https://i.giphy.com/4wLJ8aC0V68x2.gif | 🔕
 
-Now enjoy it! 🍾 
 
 ## 🤓 Developing
 
