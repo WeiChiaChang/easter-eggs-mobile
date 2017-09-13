@@ -55,7 +55,7 @@ export default {
 }
 ```
 
-> Magic will show with a little bit etting on HTML, keep going ! 💪 
+> Magic will show with a tiny setting on HTML, keep going ! 💪 
 
 Add `class name` and `data-src` attribute on your `<a>` tags in your <b>HTML</b> structure, take `ghost` for example :
 
