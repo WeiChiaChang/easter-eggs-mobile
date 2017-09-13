@@ -77,28 +77,28 @@ So if you want to use `pikachu`, that would be :
 
 > This table can help you find out easter eggs as required : 
 
-🐰 easter egg class | 📊 data-src | 💯 original source | 🔊 sound
-------------------- | ----------- | ----------------- | --------
-gif-pikachu | https://goo.gl/x3rX4r | https://i.giphy.com/uXnif9JVu6VnW.gif | 🔔
-gif-airguitar | https://goo.gl/qEhWwZ | https://i.giphy.com/7yfb0x166Coms.gif | 🔕
-gif-ghost | https://goo.gl/4EwYZr | https://i.giphy.com/YoypIsUmXXI52.gif | 🔕
-gif-dog | https://goo.gl/aQVAXH | https://i.giphy.com/4wLJ8aC0V68x2.gif | 🔕 
-gif-hangover | https://goo.gl/aWj4U2 | https://i.giphy.com/uDvz51Hu6PONi.gif | 🔕 
-gif-winner | https://goo.gl/5vcgPj | https://i.giphy.com/3oKIPwZVHEiM2B3ljq.gif | 🔕 
-gif-psyduck | https://goo.gl/UQL2ak | https://i.giphy.com/7gmk89ezqSjFS.gif | 🔕 
-gif-salamander | https://goo.gl/6ZJv2q | https://i.giphy.com/Ny6WEYvBuBvDW.gif | 🔕 
-gif-jump | https://goo.gl/EPJRmw | https://i.giphy.com/yqwAxqYAqKTmw.gif | 🔕 
-gif-pokeball | https://goo.gl/TBGpoK | https://i.giphy.com/87XjvflDBlPMc.gif | 🔕 
-gif-rabbit | https://goo.gl/an1sF1 | https://i.giphy.com/ClZz9cJstGjuM.gif | 🔕 
-gif-penguin | https://goo.gl/by1APG | https://i.giphy.com/12GEN4WSKIBYnC.gif | 🔕 
-gif-jumpingbird | https://goo.gl/m1cdht | https://i.giphy.com/d3ywbrOKTC2283KM.gif | 🔕 
-gif-haters | https://goo.gl/DuMKq4 | https://i.giphy.com/L2ZFgodrsQs6s.gif | 🔕
-gif-dragon | https://goo.gl/P3hA5U | https://i.giphy.com/CJRIOrrkmtBOo.gif | 🔕 
-gif-money | https://goo.gl/frKxMS | https://i.giphy.com/sBoohCuSRNYv6.gif | 🔕 
-gif-robot | https://goo.gl/yV2gVM | https://i.giphy.com/7ER2Unn4hwhJ6.gif | 🔕 
-gif-spongebob | https://goo.gl/CxR6Xq | https://i.giphy.com/FxAYkQqdw63hC.gif | 🔕 
-gif-handsome | https://goo.gl/2Kz7Xf | https://i.giphy.com/aXPw3suOkxrBC.gif | 🔕 
-gif-no | https://goo.gl/1Gx1dY | https://i.giphy.com/l1ibixfnM4qGI.gif | 🔕 
+🐰 easter egg class | 📊 data-src | 💯 original source
+------------------- | ----------- | -----------------
+gif-pikachu | https://goo.gl/x3rX4r | https://i.giphy.com/uXnif9JVu6VnW.gif
+gif-airguitar | https://goo.gl/qEhWwZ | https://i.giphy.com/7yfb0x166Coms.gif
+gif-ghost | https://goo.gl/4EwYZr | https://i.giphy.com/YoypIsUmXXI52.gif
+gif-dog | https://goo.gl/aQVAXH | https://i.giphy.com/4wLJ8aC0V68x2.gif 
+gif-hangover | https://goo.gl/aWj4U2 | https://i.giphy.com/uDvz51Hu6PONi.gif
+gif-winner | https://goo.gl/5vcgPj | https://i.giphy.com/3oKIPwZVHEiM2B3ljq.gif
+gif-psyduck | https://goo.gl/UQL2ak | https://i.giphy.com/7gmk89ezqSjFS.gif 
+gif-salamander | https://goo.gl/6ZJv2q | https://i.giphy.com/Ny6WEYvBuBvDW.gif
+gif-jump | https://goo.gl/EPJRmw | https://i.giphy.com/yqwAxqYAqKTmw.gif
+gif-pokeball | https://goo.gl/TBGpoK | https://i.giphy.com/87XjvflDBlPMc.gif
+gif-rabbit | https://goo.gl/an1sF1 | https://i.giphy.com/ClZz9cJstGjuM.gif 
+gif-penguin | https://goo.gl/by1APG | https://i.giphy.com/12GEN4WSKIBYnC.gif
+gif-jumpingbird | https://goo.gl/m1cdht | https://i.giphy.com/d3ywbrOKTC2283KM.gif
+gif-haters | https://goo.gl/DuMKq4 | https://i.giphy.com/L2ZFgodrsQs6s.gif
+gif-dragon | https://goo.gl/P3hA5U | https://i.giphy.com/CJRIOrrkmtBOo.gif
+gif-money | https://goo.gl/frKxMS | https://i.giphy.com/sBoohCuSRNYv6.gif 
+gif-robot | https://goo.gl/yV2gVM | https://i.giphy.com/7ER2Unn4hwhJ6.gif
+gif-spongebob | https://goo.gl/CxR6Xq | https://i.giphy.com/FxAYkQqdw63hC.gif
+gif-handsome | https://goo.gl/2Kz7Xf | https://i.giphy.com/aXPw3suOkxrBC.gif
+gif-no | https://goo.gl/1Gx1dY | https://i.giphy.com/l1ibixfnM4qGI.gif
 
 
 ## 🤓 Developing
