@@ -2378,7 +2378,7 @@
     }, 4300);
     window.setTimeout(function () {
       img.parentNode.removeChild(img);
-      shock.parentNode.removeChild(shock);
+      // shock.parentNode.removeChild(shock);
     }, 5400);
 
   };
