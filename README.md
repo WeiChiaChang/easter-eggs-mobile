@@ -82,7 +82,8 @@ So if you want to use `pikachu`, that would be :
 airguitar  | gif-airguitar | https://goo.gl/qEhWwZ | https://i.giphy.com/7yfb0x166Coms.gif | 🔕
 ghost | gif-ghost | https://goo.gl/4EwYZr | https://i.giphy.com/YoypIsUmXXI52.gif | 🔕
 pikachu | gif-pikachu | https://goo.gl/x3rX4r | https://i.giphy.com/uXnif9JVu6VnW.gif | 🔔
-dog | gif-dog | https://goo.gl/aQVAXH | https://i.giphy.com/4wLJ8aC0V68x2.gif | 🔕
+dog | gif-dog | https://goo.gl/aQVAXH | https://i.giphy.com/4wLJ8aC0V68x2.gif | 🔕 
+hangover | gif-hangover | https://goo.gl/aWj4U2 | https://i.giphy.com/uDvz51Hu6PONi.gif | 🔕 
 
 
 ## 🤓 Developing

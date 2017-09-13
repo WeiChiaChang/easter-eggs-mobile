@@ -28,7 +28,7 @@
   };
 
   var init = function (data) {
-    try { 
+    try {
       var qwop = document.getElementsByClassName('gif-airguitar')[0];
       qwop.addEventListener('click', airguitar)
     } catch (e) {
@@ -37,8 +37,8 @@
     // var qwop = document.getElementsByClassName('gif-airguitar')[0];
     // qwop.addEventListener('click', airguitar)
   };
-  
-  try { 
+
+  try {
     var data = document.getElementsByClassName('gif-airguitar')[0].dataset.src
     init(data);
   } catch (e) {
@@ -76,7 +76,7 @@
   }
 
   var init = function (data) {
-    try { 
+    try {
       var qwop = document.getElementsByClassName('gif-dog')[0];
       qwop.addEventListener('click', dog)
     } catch (e) {
@@ -84,7 +84,7 @@
     }
   };
 
-  try { 
+  try {
     var data = document.getElementsByClassName('gif-dog')[0].dataset.src
     init(data);
   } catch (e) {
@@ -1512,7 +1512,7 @@
   };
 
   var init = function (data) {
-    try { 
+    try {
       var qwop = document.getElementsByClassName('gif-pikachu')[0]
       qwop.addEventListener('click', record)
     } catch (e) {
@@ -1521,8 +1521,8 @@
     // var qwop = document.getElementsByClassName('gif-pikachu')[0];
     // qwop.addEventListener('click', record)
   };
-  
-  try { 
+
+  try {
     var data = document.getElementsByClassName('gif-pikachu')[0].dataset.src
     init(data);
   } catch (e) {
@@ -1564,7 +1564,7 @@
   };
 
   var init = function (data) {
-    try { 
+    try {
       var qwop = document.getElementsByClassName('gif-ghost')[0];
       qwop.addEventListener('click', ghost)
     } catch (e) {
@@ -1572,7 +1572,7 @@
     }
   };
 
-  try { 
+  try {
     var data = document.getElementsByClassName('gif-ghost')[0].dataset.src
     init(data)
   } catch (e) {
@@ -1581,3 +1581,55 @@
 
 })(window);
 // GIF -- ghost -- end
+
+// GIF -- hangover -- start
+(function (window) {
+  "use strict"
+
+  var hangover = function () {
+    var shock = document.createElement('div')
+    var img = new Image()
+    img.src = data
+    img.style.width = '400px'
+    img.style.height = '350px'
+    img.style.transition = '8s all linear'
+    img.style.position = 'fixed'
+    img.style.left = '-400px'
+    // img.style.bottom = 'calc(-50% + 300px)'
+    img.style.bottom = '-10px'
+    img.style.zIndex = 999999
+
+    document.body.appendChild(img)
+
+    // window.setTimeout(function(){
+    //   img.style.left = 'calc(50% - 200px)'
+    // },50)
+
+    window.setTimeout(function () {
+      img.style.left = 'calc(100% + 500px)'
+    }, 50)
+
+    window.setTimeout(function () {
+      img.parentNode.removeChild(img)
+    }, 8000)
+
+  }
+
+  var init = function (data) {
+    try {
+      var qwop = document.getElementsByClassName('gif-hangover')[0];
+      qwop.addEventListener('click', hangover)
+    } catch (e) {
+      // console.log("error : "+e);
+    }
+  };
+
+  try {
+    var data = document.getElementsByClassName('gif-hangover')[0].dataset.src
+    init(data);
+  } catch (e) {
+    // console.log("error : "+e);
+  }
+
+})(window);
+// GIF -- hangover -- end
