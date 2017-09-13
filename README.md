@@ -20,7 +20,7 @@
 
 ## 💡 Inspiration
 
-Original Source: Thanks to [Richard Denton](https://codepen.io/isdampe/pen/OXYZZO)!
+Thanks to awesome [GIFLINKS](http://tholman.com/giflinks/) & original source from [Richard Denton](https://codepen.io/isdampe/pen/OXYZZO) !
 
 All of the images were derived from [GIPHY](https://giphy.com/).
 
@@ -105,13 +105,13 @@ gif-no | https://goo.gl/1Gx1dY | https://i.giphy.com/l1ibixfnM4qGI.gif
 
 ### Setting up Dev
 
-A quick introduction of how to use easter-eggs-mobile, first of all:
+A quick introduction of how to use easter-eggs-mobile, first of all :
 
 ```shell
 git clone https://github.com/WeiChiaChang/easter-eggs-mobile.git
 ```
 
-Then install pingy as front-end build tool:
+Then install pingy as front-end build tool :
 
 > Save your life, save your time
 
@@ -119,13 +119,13 @@ Then install pingy as front-end build tool:
 npm install @pingy/cli --global
 ```
 
-Last step, install all of the modules:
+Last step, install all of the modules :
 
 ```shell
 npm install
 ```
 
-Type this command with your favorite iterm2:
+Type this command with your favorite iterm2 :
 
 ```shell
 pingy dev
@@ -135,7 +135,7 @@ Everything all done now! ![turtle](http://i.imgur.com/879dfXS.gif)
 
 
 ### Deploying / Publishing
-Export website to a folder for distribution and ready for deploying:
+Export website to a folder for distribution and ready for deploying :
 
 ```shell
 pingy export

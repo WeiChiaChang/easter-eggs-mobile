@@ -1,5 +1,33 @@
+html {
+  height: 100%;
+}
+body {
+  min-height: 100%;
+  display: flex;
+  background: silver url('https://weichiachang.github.io/easter-eggs-mobile/images/playstation-pattern.png') fixed;
+}
+
+.container {
+  font-family: 'Walter Turncoat', cursive;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  text-align: center;
+}
+
+.card {
+  width: 40%;
+  line-height: 2.1em;
+  text-align: justify;
+}
+
 .gif-click {
-  color: salmon;
+  color: #69c773;
+  font-weight: bolder;
+  background: #eeeeee;
+  padding: 1px 4px;
+  border-radius: 4px;
   cursor: pointer;
   -webkit-touch-callout: none;
   -webkit-user-select: none;
@@ -7,4 +35,11 @@
   -moz-user-select: none;
   -ms-user-select: none;
   user-select: none;
+}
+
+@media (max-width: 767px) {
+  .card {
+    width: 80%;
+    /* margin: 0 auto; */
+  }
 }
