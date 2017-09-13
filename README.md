@@ -24,14 +24,6 @@ Thanks to awesome [GIFLINKS](http://tholman.com/giflinks/) & original source fro
 
 All of the images were derived from [GIPHY](https://giphy.com/).
 
-<p align="center">
-  <a target="_blank" href="https://github.com/WeiChiaChang/easter-eggs-mobile">
-    <img alt="easter-egg-collection" src="https://i.imgur.com/AzRZ3rB.png">
-  </a>
-</p>
-
-> Image Original Source From [Awesome Egoist](https://github.com/egoist/evangelion-card)! Thank you!
-
 ## 🎉 Installing / Getting started
 
 #### CDN 👇
