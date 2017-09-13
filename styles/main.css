@@ -1,6 +1,43 @@
+/* github octocat icon */
+
+
+/* Original source from here: */
+
+
+/* https://github.com/tholman/github-corners */
+
+.github-corner:hover .octo-arm {
+  animation: octocat-wave 560ms ease-in-out
+}
+
+@keyframes octocat-wave {
+  0%,
+  100% {
+    transform: rotate(0)
+  }
+  20%,
+  60% {
+    transform: rotate(-25deg)
+  }
+  40%,
+  80% {
+    transform: rotate(10deg)
+  }
+}
+
+@media (max-width:500px) {
+  .github-corner:hover .octo-arm {
+    animation: none
+  }
+  .github-corner .octo-arm {
+    animation: octocat-wave 560ms ease-in-out
+  }
+}
+
 html {
   height: 100%;
 }
+
 body {
   min-height: 100%;
   display: flex;
@@ -35,6 +72,12 @@ body {
   -moz-user-select: none;
   -ms-user-select: none;
   user-select: none;
+}
+
+.icon {
+  display: block;
+  margin: 0 auto;
+  margin-bottom: 10%;
 }
 
 @media (max-width: 767px) {
