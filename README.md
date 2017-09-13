@@ -55,7 +55,7 @@ export default {
 }
 ```
 
-> The setting of JavaScript part all done, magic will show just still need a little bit addition on HTML, keep going! 💪 
+> Magic will show with a little bit etting on HTML, keep going ! 💪 
 
 Add `class name` and `data-src` attribute on your `<a>` tags in your <b>HTML</b> structure, take `ghost` for example :
 
