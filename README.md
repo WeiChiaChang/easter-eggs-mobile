@@ -15,8 +15,8 @@
 
 ## 🤘 Live Demo
 
-- [Just try it](https://git.io/v5PQC)!
-- Or... [Codepen](https://codepen.io/WeiChiaChang/pen/BwByxN?editors=1100) is your best friend!
+- Just try to open [this page](https://git.io/v5PQC) on mobile 📲
+- Or... [Codepen](https://codepen.io/WeiChiaChang/pen/BwByxN?editors=1100) is your best friend !
 
 ## 💡 Inspiration
 
