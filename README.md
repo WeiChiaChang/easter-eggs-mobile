@@ -68,9 +68,7 @@ So if you want to use `pikachu`, that would be :
 <a class="gif-pikachu" data-src='./images/pikachu.gif'>Pikachu</a>
 ```
 
-The rest of easter eggs follow this way as well 🎉 
-
-#### Now enjoy it! 🍾 
+#### The rest of easter eggs follow this way as well 🎉 , now enjoy it ! 🍾 
 
 > This table can help you find out easter eggs as required : 
 
