@@ -60,17 +60,15 @@ export default {
 Add `class name` and `data-src` attribute on your `<a>` tags in your <b>HTML</b> structure, take `ghost` for example :
 
 ```html
-<a class="gif-click gif-ghost" data-src='./images/ghost.gif'>Ghost</a>
+<a class="gif-ghost" data-src='./images/ghost.gif'>Ghost</a>
 ```
 
 So if you want to use `pikachu`, that would be :
 ```html
-<a class="gif-click gif-pikachu" data-src='./images/pikachu.gif'>Pikachu</a>
+<a class="gif-pikachu" data-src='./images/pikachu.gif'>Pikachu</a>
 ```
 
 The rest of easter eggs follow this way as well 🎉 
-
-> You can ignore `gif-click` this class, just for CSS styling.
 
 This table can help you find out easter eggs as required : 
 
