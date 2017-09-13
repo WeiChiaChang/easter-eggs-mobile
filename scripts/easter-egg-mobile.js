@@ -2150,3 +2150,53 @@
 
 })(window);
 // GIF -- dragon -- end
+
+// GIF -- money -- start
+(function (window) {
+  "use strict"
+
+  var money = function () {
+    var shock = document.createElement('div');
+    var img = new Image();
+    img.src = data;
+    img.style.width = '374px';
+    img.style.height = '375px';
+    img.style.transition = '6s all';
+    img.style.position = 'fixed';
+    img.style.right = '-374px';
+    img.style.bottom = '40px';
+    img.style.zIndex = 999999;
+
+    document.body.appendChild(img);
+
+    window.setTimeout(function () {
+      img.style.right = 'calc(50% - 187px)';
+    }, 50);
+
+    window.setTimeout(function () {
+      img.style.right = 'calc(100% + 375px)';
+    }, 4300);
+    window.setTimeout(function () {
+      img.parentNode.removeChild(img);
+    }, 7300);
+
+  };
+
+  var init = function (data) {
+    try {
+      var qwop = document.getElementsByClassName('gif-money')[0];
+      qwop.addEventListener('click', money)
+    } catch (e) {
+      // console.log("error : "+e);
+    }
+  };
+
+  try {
+    var data = document.getElementsByClassName('gif-money')[0].dataset.src
+    init(data);
+  } catch (e) {
+    // console.log("error : "+e);
+  }
+
+})(window);
+// GIF -- money -- end
