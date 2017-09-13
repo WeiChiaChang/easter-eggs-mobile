@@ -87,6 +87,7 @@ gif-hangover | https://goo.gl/aWj4U2 | https://i.giphy.com/uDvz51Hu6PONi.gif | �
 gif-winner | https://goo.gl/5vcgPj | https://i.giphy.com/3oKIPwZVHEiM2B3ljq.gif | 🔕 
 gif-psyduck | https://goo.gl/UQL2ak | https://i.giphy.com/7gmk89ezqSjFS.gif | 🔕 
 gif-salamander | https://goo.gl/6ZJv2q | https://i.giphy.com/Ny6WEYvBuBvDW.gif | 🔕 
+gif-jump | https://goo.gl/EPJRmw | https://i.giphy.com/yqwAxqYAqKTmw.gif | 🔕 
 
 
 ## 🤓 Developing

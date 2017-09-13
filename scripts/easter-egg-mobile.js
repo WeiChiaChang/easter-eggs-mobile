@@ -1788,3 +1788,55 @@
 
 })(window);
 // GIF -- salamander -- end
+
+// GIF -- jump -- start
+(function (window) {
+  "use strict"
+
+  var jump = function () {
+
+    var shock = document.createElement('div');
+    var img = new Image;
+    img.src = data;
+    img.style.width = '350px';
+    img.style.height = '300px';
+    img.style.transition = '1s all';
+    img.style.position = 'fixed';
+    img.style.left = 'calc(50% - 180px)';
+    img.style.bottom = '-450px';
+    img.style.zIndex = 999999;
+
+    document.body.appendChild(img);
+
+    window.setTimeout(function () {
+      img.style.bottom = '0px';
+    }, 30);
+
+    window.setTimeout(function () {
+      img.style.bottom = '-450px';
+    }, 4300);
+    window.setTimeout(function () {
+      img.parentNode.removeChild(img);
+      shock.parentNode.removeChild(shock);
+    }, 5400);
+
+  };
+
+  var init = function (data) {
+    try {
+      var qwop = document.getElementsByClassName('gif-jump')[0];
+      qwop.addEventListener('click', jump)
+    } catch (e) {
+      // console.log("error : "+e);
+    }
+  };
+
+  try {
+    var data = document.getElementsByClassName('gif-jump')[0].dataset.src
+    init(data);
+  } catch (e) {
+    // console.log("error : "+e);
+  }
+
+})(window);
+// GIF -- jump -- end
