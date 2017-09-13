@@ -1,9 +1,9 @@
 # 📱 easter-eggs-mobile
 
+![mitLicense](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![npmPackage](https://badge.fury.io/js/easter-egg-mobile.svg)
 ![vulnerabilities](https://snyk.io/test/npm/easter-egg-mobile/badge.svg)
-![dependencies](https://david-dm.org/weichiachang/easter-eggs-mobile/status.svg)
-![devDependencies](https://david-dm.org/weichiachang/easter-eggs-mobile/dev-status.svg)
+![scoreMe](https://readme-score-api.herokuapp.com/score.svg?url=WeiChiaChang/easter-eggs-mobile)
 
 > It's the special version which extended from [easter-egg-collection](https://github.com/WeiChiaChang/easter-egg-collection) this library for user to trigger lots of easter eggs on mobile device by 👆 clicking or tapping with ease.
 
