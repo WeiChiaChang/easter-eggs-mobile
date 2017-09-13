@@ -2256,7 +2256,6 @@
 // GIF -- spongebob -- start
 (function (window) {
   "use strict"
-
   var spongebob = function () {
     var shock = document.createElement('div');
     var img = new Image();
@@ -2302,3 +2301,53 @@
 
 })(window);
 // GIF -- spongebob -- end
+
+// GIF -- handsome -- start
+(function (window) {
+  "use strict"
+  var handsome = function () {
+    var shock = document.createElement('div')
+    var img = new Image()
+    img.src = data
+    img.style.width = '350px'
+    img.style.height = '350px'
+    img.style.transition = '6s all linear'
+    img.style.position = 'fixed'
+    img.style.left = '-400px'
+    img.style.bottom = '0px'
+    img.style.zIndex = 999999
+
+    document.body.appendChild(img)
+
+    // window.setTimeout(function(){
+    //   img.style.left = 'calc(50% - 200px)'
+    // },50)
+
+    window.setTimeout(function () {
+      img.style.left = 'calc(100% + 500px)'
+    }, 50)
+
+    window.setTimeout(function () {
+      img.parentNode.removeChild(img)
+    }, 6000)
+
+  }
+
+  var init = function (data) {
+    try {
+      var qwop = document.getElementsByClassName('gif-handsome')[0];
+      qwop.addEventListener('click', handsome)
+    } catch (e) {
+      // console.log("error : "+e);
+    }
+  };
+
+  try {
+    var data = document.getElementsByClassName('gif-handsome')[0].dataset.src
+    init(data);
+  } catch (e) {
+    // console.log("error : "+e);
+  }
+
+})(window);
+// GIF -- handsome -- end
