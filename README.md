@@ -1,6 +1,6 @@
 # 📱 easter-eggs-mobile
 
-![mitLicense](https://mg.shields.io/badge/License-MIT-yellow.svg)
+![mitLicense](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![npmPackage](https://badge.fury.io/js/easter-egg-mobile.svg)
 ![vulnerabilities](https://snyk.io/test/npm/easter-egg-mobile/badge.svg)
 ![scoreMe](https://readme-score-api.herokuapp.com/score.svg?url=WeiChiaChang/easter-eggs-mobile)
